@@ -35,11 +35,11 @@
                                         <a href="#">Forgot Password?</a>
                                     </div>
                                 </div>
-
+                                <router-link :to="{ name: 'dashbord'}">
                                 <button class="btn btn-success btn-block shadow border-0 py-2 text-uppercase ">
                                     Login
                                 </button>
-
+                            </router-link>
                                 <p class="text-center mt-5">
                                     Don't have an account?
                                     <span>
