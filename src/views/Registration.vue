@@ -179,7 +179,7 @@
         <!-- Welcome to the website and register now -->
         <div class="text-caro-meta">
             <span>Pitnik Social Network</span>
-            <img src="images/icon-21.png" alt="">
+            <img src="" alt="">
           <span style="font-size: 38px;">Bhramamithra</span>
           
           

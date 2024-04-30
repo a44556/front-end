@@ -427,13 +427,13 @@
 							<button type="submit"></button>
 						</form>	
 					</div>
-					<figure><img src="images/resources/share-post.jpg" alt=""></figure>
+					<figure><img src="" alt=""></figure>
 					<div class="friend-info">
 						<figure>
-							<img alt="" src="images/resources/admin.jpg">
+							<img alt="" src="">
 						</figure>
 						<div class="friend-name">
-							<ins><a title="" href="time-line.html">Jack Carter</a> share <a title="" href="#">link</a></ins>
+							<ins><a title="" href="">Jack Carter</a> share <a title="" href="#">link</a></ins>
 							<span>Yesterday with @Jack Piller and @Emily Stone at the concert of # Rock'n'Rolla in Ontario.</span>
 						</div>
 					</div>

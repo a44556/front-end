@@ -560,10 +560,10 @@
                                     <ul class="we-comet">
                                         <li>
                                             <div class="comet-avatar">
-                                                <img alt="" src="images/resources/nearly3.jpg">
+                                                <img alt="" src="">
                                             </div>
                                             <div class="we-comment">
-                                                <h5><a title="" href="time-line.html">Jason borne</a></h5>
+                                                <h5><a title="" href="">Jason borne</a></h5>
                                                 <p>we are working for the dance and sing songs. this video is very awesome for the youngster. please vote this video and like our channel</p>
                                                 <div class="inline-itms">
                                                     <span>1 year ago</span>
@@ -575,10 +575,10 @@
                                         </li>
                                         <li>
                                             <div class="comet-avatar">
-                                                <img alt="" src="images/resources/comet-4.jpg">
+                                                <img alt="" src="">
                                             </div>
                                             <div class="we-comment">
-                                                <h5><a title="" href="time-line.html">Sophia</a></h5>
+                                                <h5><a title="" href="">Sophia</a></h5>
                                                 <p>we are working for the dance and sing songs. this video is very awesome for the youngster.
                                                     <i class="em em-smiley"></i>
                                                 </p>
@@ -594,7 +594,7 @@
                                                 <img alt="" src="">
                                             </div>
                                             <div class="we-comment">
-                                                <h5><a title="" href="time-line.html">Sophia</a></h5>
+                                                <h5><a title="" href="">Sophia</a></h5>
                                                 <p>we are working for the dance and sing songs. this video is very awesome for the youngster.
                                                     <i class="em em-smiley"></i>
                                                 </p>

@@ -77,7 +77,7 @@
                             <p>Brahmins Foods is a food product-based company in Kerala. Brahmins group is a well-known manufacturer and supplier of multiple food products</p>
                         </div>
                         <div class="f-item">
-                            <a href="https://htmlcodex.com"><i class="fa fa-headphones"></i></a>
+                            <a href=""><i class="fa fa-headphones"></i></a>
                             <h3>Brahmin matrimony</h3>
                             <p>  BrahminMatrimony - The No. 1 & most successful Brahmin Matrimony Site from Bramamithra.com.</p>
                         </div>
@@ -89,7 +89,7 @@
                     </div>
                     <div class="col-md-3 col-sm-12">
                         <div class="f-item">
-                            <a href="https://htmlcodex.com"><i class="fa fa-wifi"></i></a>
+                            <a href=""><i class="fa fa-wifi"></i></a>
                             <h3>communication</h3>
                             <p>Lorem ipsum dolor sit amet adipiscing elit. Mauris vitae neque tristique diam</p>
                         </div>

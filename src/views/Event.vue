@@ -61,7 +61,7 @@
                                         <div class="blog-post">
                                             <div class="friend-info">
                                                 <figure>
-                                                    <img alt="" src="images/resources/nearly1.jpg">
+                                                    <img alt="" src="">
                                                 </figure>
                                                 <div class="friend-name">
                                                     <div class="more">
@@ -76,13 +76,13 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <ins><a title="" href="time-line.html">Emily</a></ins>
+                                                    <ins><a title="" href="">Emily</a></ins>
                                                     <span><i class="fa fa-globe"></i> Jan,5 2019 19:PM </span>
                                                 </div>
                                                 <div class="post-meta">
                                                     <figure>
                                                         <a title="" href="">
-                                                            <img alt="" src="images/resources/blogpost-1.jpg">
+                                                            <img alt="" src="">
                                                         </a>
                                                         <ul class="like-dislike">
                                                             <li><a title="Save to Pin Post" href="#" class="bg-purple"><i class="fa fa-thumb-tack"></i></a></li>
@@ -169,7 +169,7 @@
                                         <div class="blog-post">
                                             <div class="friend-info">
                                                 <figure>
-                                                    <img alt="" src="images/resources/nearly2.jpg">
+                                                    <img alt="" src="">
                                                 </figure>
                                                 <div class="friend-name">
                                                     <div class="more">
@@ -184,13 +184,13 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <ins><a title="" href="time-line.html">Jack Carter</a></ins>
+                                                    <ins><a title="" href="">Jack Carter</a></ins>
                                                     <span><i class="fa fa-globe"></i> March,5 2019 19:PM </span>
                                                 </div>
                                                 <div class="post-meta">
                                                     <figure>
                                                         <a title="" href="">
-                                                            <img alt="" src="images/resources/blogpost-2.jpg">
+                                                            <img alt="" src="">
                                                         </a>
                                                         <ul class="like-dislike">
                                                             <li><a title="Save to Pin Post" href="#" class="bg-purple"><i class="fa fa-thumb-tack"></i></a></li>
@@ -275,7 +275,7 @@
                                         <div class="blog-post">
                                             <div class="friend-info">
                                                 <figure>
-                                                    <img alt="" src="images/resources/nearly3.jpg">
+                                                    <img alt="" src="">
                                                 </figure>
                                                 <div class="friend-name">
                                                     <div class="more">
@@ -290,13 +290,13 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <ins><a title="" href="time-line.html">Simson</a></ins>
+                                                    <ins><a title="" href="">Simson</a></ins>
                                                     <span><i class="fa fa-globe"></i> Aug,12 2019 19:PM </span>
                                                 </div>
                                                 <div class="post-meta">
                                                     <figure>
                                                         <a title="" href="">
-                                                            <img alt="" src="images/resources/blogpost-3.jpg">
+                                                            <img alt="" src="">
                                                         </a>
                                                         <ul class="like-dislike">
                                                             <li><a title="Save to Pin Post" href="#" class="bg-purple"><i class="fa fa-thumb-tack"></i></a></li>
@@ -382,7 +382,7 @@
                                         <div class="blog-post">
                                             <div class="friend-info">
                                                 <figure>
-                                                    <img alt="" src="images/resources/nearly4.jpg">
+                                                    <img alt="" src="">
                                                 </figure>
                                                 <div class="friend-name">
                                                     <div class="more">
@@ -397,13 +397,13 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <ins><a title="" href="time-line.html">Xing Song</a></ins>
+                                                    <ins><a title="" href="">Xing Song</a></ins>
                                                     <span><i class="fa fa-globe"></i> Aug,12 2019 19:PM </span>
                                                 </div>
                                                 <div class="post-meta">
                                                     <figure>
                                                         <a title="" href="">
-                                                            <img alt="" src="images/resources/blogpost-4.jpg">
+                                                            <img alt="" src="">
                                                         </a>
                                                         <ul class="like-dislike">
                                                             <li><a title="Save to Pin Post" href="#" class="bg-purple"><i class="fa fa-thumb-tack"></i></a></li>
