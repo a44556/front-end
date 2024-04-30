@@ -169,7 +169,7 @@
                                                 <div v-if="isAudioPopupVisible" class="audio-popup">
                                                     <!-- Your actual audio player goes here -->
                                                     <audio controls class="w-full h-10 p-2 rounded-md border border-gray-300 bg-gradient-to-r from-blue-500 to-purple-500">
-                                                        <source src="your-audio-file.mp3" type="audio/mp3">
+                                                        <source src="" type="audio/mp3">
                                                     </audio>
                                                     <span class="text-white font-bold">Featured</span>
                                                     <!-- Close button for the popup -->
