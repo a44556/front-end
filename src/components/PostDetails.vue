@@ -11,7 +11,7 @@
 														</div>
 													</div>
 													<div class="user-fig">
-														<img src="images/resources/tube-user2.jpg" alt="">
+														<img src="" alt="">
 														<a href="#" title="">Xing Xong</a>
 													</div>
 													<div class="classi-pst-meta">
