@@ -188,7 +188,7 @@
 														</div>
 													</div>
 													<div class="user-fig">
-														<img src="images/resources/tube-user2.jpg" alt="">
+														<img src="" alt="">
 														<a href="#" title="">Xing Xong</a>
 													</div>
 													<div class="classi-pst-meta">
@@ -230,7 +230,7 @@
 														</div>
 													</div>
 													<div class="user-fig">
-														<img src="images/resources/tube-user2.jpg" alt="">
+														<img src="" alt="">
 														<a href="#" title="">Xing Xong</a>
 													</div>
 													<div class="classi-pst-meta">
@@ -261,12 +261,12 @@
                                                 <div class="rec-events bg-purple">
                                                     <i class="ti-gift"></i>
                                                     <h6><a href="" title="">Ocean Motel good night event in columbia</a></h6>
-                                                    <img src="images/clock.png" alt="">
+                                                    <img src="" alt="">
                                                 </div>
                                                 <div class="rec-events bg-blue">
                                                     <i class="ti-microphone"></i>
                                                     <h6><a href="" title="">2016 The 3rd International Conference</a></h6>
-                                                    <img src="images/clock.png" alt="">
+                                                    <img src="" alt="">
                                                 </div>
                                             </div><!-- explore events -->
                                           
@@ -274,7 +274,7 @@
                                                 <div class="banner high-opacity purple">
                                                     <div class="bg-image" style="background-image: url(images/resources/baner-widgetbg2.jpg)"></div>
                                                     <div class="post-job">
-                                                        <img src="images/job-icon.png" alt="">
+                                                        <img src="" alt="">
                                                         <span>Post a new job</span>
                                                         <p>Create a new job post for hire a new talented from the pitnik</p>
                                                         <a class="main-btn" href="#" title="">Post Job</a>
@@ -412,7 +412,7 @@
                                     <img alt="" src="">
                                 </figure>
                                 <div class="friend-name">
-                                    <ins><a title="" href="time-line.html">Jack Carter</a> share <a title="" href="#">link</a></ins>
+                                    <ins><a title="" href="">Jack Carter</a> share <a title="" href="#">link</a></ins>
                                     <span>Yesterday with @Jack Piller and @Emily Stone at the concert of # Rock'n'Rolla in Ontario.</span>
                                 </div>
                             </div>
@@ -542,13 +542,13 @@
                             <div class="col-lg-8">
                                 <div class="pop-image">
                                     <div class="pop-item">
-                                        <figure><img src="images/resources/blog-detail.jpg" alt=""></figure>
+                                        <figure><img src="" alt=""></figure>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-4">
                                 <div class="user">
-                                    <figure><img src="images/resources/user1.jpg" alt=""></figure>
+                                    <figure><img src="" alt=""></figure>
                                     <div class="user-information">
                                         <h4><a href="#" title="">Danile Walker</a></h4>
                                         <span>2 hours ago</span>
@@ -591,7 +591,7 @@
                                         </li>
                                         <li>
                                             <div class="comet-avatar">
-                                                <img alt="" src="images/resources/comet-4.jpg">
+                                                <img alt="" src="">
                                             </div>
                                             <div class="we-comment">
                                                 <h5><a title="" href="time-line.html">Sophia</a></h5>
@@ -610,7 +610,7 @@
                                         </li>
                                         <li class="post-comment">
                                             <div class="comet-avatar">
-                                                <img alt="" src="images/resources/nearly1.jpg">
+                                                <img alt="" src="">
                                             </div>
                                             <div class="post-comt-box">
                                                 <form method="post">
