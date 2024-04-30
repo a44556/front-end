@@ -4,10 +4,10 @@
         <li v-for="comment in comments" :key="comment.id">
           <!-- Comment details here -->
           <div class="comet-avatar">
-            <img src="images/resources/nearly3.jpg" alt="">
+            <img src="" alt="">
         </div>
         <div class="we-comment">
-            <h5><a href="time-line.html" title="">Jason borne</a></h5>
+            <h5><a href="" title="">Jason borne</a></h5>
             <p>we are working for the dance and sing songs. this video is very awesome for the youngster. please vote this video and like our channel</p>
             <div class="inline-itms">
                 <span>1 year ago</span>
